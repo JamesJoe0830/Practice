@@ -2,7 +2,13 @@
 
 int main (void)
 {
-    printf("Hello C languge");
-    return 0;
+int i =0;
+
+while (i<50)
+
+{
+printf(”hello, world”);
+i++;
+};
 };
 
